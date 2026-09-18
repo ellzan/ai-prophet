@@ -99,55 +99,6 @@ curl "http://localhost:8000/api/v1/predict?commodity=Cabai%20Rawit&province=Jawa
 ```
 
 
-Buka PowerShell di folder `d:\ai-service`, lalu jalankan:
-
-```powershell
-git init
-git branch -M main
-git status
-```
-
-
-Ganti `USERNAME` dan `NAMA-REPOSITORY` sesuai akun GitHub Anda:
-
-```powershell
-git add .
-git status
-git commit -m "Initial commit"
-git remote add origin https://github.com/USERNAME/NAMA-REPOSITORY.git
-git push -u origin main
-```
-
-Jika GitHub meminta autentikasi melalui HTTPS, gunakan Personal Access Token
-sebagai pengganti password akun GitHub. Alternatifnya, gunakan URL SSH:
-
-```powershell
-git remote set-url origin git@github.com:USERNAME/NAMA-REPOSITORY.git
-git push -u origin main
-```
-
-### Push perubahan berikutnya
-
-Setelah mengubah kode atau dokumentasi, jalankan:
-
-```powershell
-git status
-git add .
-git commit -m "Jelaskan perubahan secara singkat"
-git push
-```
-
-Untuk bekerja dengan branch fitur:
-
-```powershell
-git switch -c nama-fitur
-# lakukan perubahan, lalu commit
-git push -u origin nama-fitur
-```
-
-Setelah itu, buat Pull Request di GitHub menuju branch `main`.
-
-
 ## Retraining Berkala
 
 Untuk menjaga model tetap relevan, jadwalkan `scripts/train.py` berjalan
