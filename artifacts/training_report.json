@@ -1,2088 +1,1142 @@
 {
   "Cabai Rawit / Aceh": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 8.68,
-=======
     "rows": 999,
     "mape": 6.22,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_aceh.json"
   },
   "Cabai Rawit / Sumatera Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 5.88,
-=======
     "rows": 999,
     "mape": 4.81,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_sumatera_utara.json"
   },
   "Cabai Rawit / Sumatera Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 4.45,
-=======
     "rows": 999,
     "mape": 8.41,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_sumatera_barat.json"
   },
   "Cabai Rawit / Riau": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 4.88,
-=======
     "rows": 999,
     "mape": 5.31,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_riau.json"
   },
   "Cabai Rawit / Jambi": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 3.87,
-=======
     "rows": 999,
     "mape": 6.85,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_jambi.json"
   },
   "Cabai Rawit / Sumatera Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 4.29,
-=======
     "rows": 999,
     "mape": 5.24,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_sumatera_selatan.json"
   },
   "Cabai Rawit / Bengkulu": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 5.79,
-=======
     "rows": 999,
     "mape": 4.14,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_bengkulu.json"
   },
   "Cabai Rawit / Lampung": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 4.16,
-=======
     "rows": 999,
     "mape": 4.9,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_lampung.json"
   },
   "Cabai Rawit / Kepulauan Bangka Belitung": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 5.49,
-=======
     "rows": 999,
     "mape": 4.83,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_kepulauan_bangka_belitung.json"
   },
   "Cabai Rawit / Kepulauan Riau": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 5.52,
-=======
     "rows": 999,
     "mape": 6.24,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_kepulauan_riau.json"
   },
   "Cabai Rawit / DKI Jakarta": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 4.93,
-=======
     "rows": 999,
     "mape": 6.27,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_dki_jakarta.json"
   },
   "Cabai Rawit / Jawa Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 4.97,
-=======
     "rows": 999,
     "mape": 4.65,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_jawa_barat.json"
   },
   "Cabai Rawit / Jawa Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 6.72,
-=======
     "rows": 999,
     "mape": 5.86,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_jawa_tengah.json"
   },
   "Cabai Rawit / DI Yogyakarta": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 4.97,
-=======
     "rows": 999,
     "mape": 7.68,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_di_yogyakarta.json"
   },
   "Cabai Rawit / Jawa Timur": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 5.03,
-=======
     "rows": 999,
     "mape": 4.72,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_jawa_timur.json"
   },
   "Cabai Rawit / Banten": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-=======
     "rows": 999,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "mape": 4.28,
     "artifact": "prophet_cabai_rawit_banten.json"
   },
   "Cabai Rawit / Bali": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 5.82,
-=======
     "rows": 999,
     "mape": 7.77,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_bali.json"
   },
   "Cabai Rawit / Nusa Tenggara Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 5.3,
-=======
     "rows": 999,
     "mape": 4.74,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_nusa_tenggara_barat.json"
   },
   "Cabai Rawit / Nusa Tenggara Timur": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 4.25,
-=======
     "rows": 999,
     "mape": 5.37,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_nusa_tenggara_timur.json"
   },
   "Cabai Rawit / Kalimantan Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 4.34,
-=======
     "rows": 999,
     "mape": 5.93,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_kalimantan_barat.json"
   },
   "Cabai Rawit / Kalimantan Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 4.62,
-=======
     "rows": 999,
     "mape": 4.91,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_kalimantan_tengah.json"
   },
   "Cabai Rawit / Kalimantan Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 4.73,
-=======
     "rows": 999,
     "mape": 5.59,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_kalimantan_selatan.json"
   },
   "Cabai Rawit / Kalimantan Timur": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 7.91,
-=======
     "rows": 999,
     "mape": 3.27,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_kalimantan_timur.json"
   },
   "Cabai Rawit / Kalimantan Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 4.82,
-=======
     "rows": 999,
     "mape": 4.58,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_kalimantan_utara.json"
   },
   "Cabai Rawit / Sulawesi Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 7.17,
-=======
     "rows": 999,
     "mape": 8.91,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_sulawesi_utara.json"
   },
   "Cabai Rawit / Sulawesi Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 5.86,
-=======
     "rows": 999,
     "mape": 5.85,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_sulawesi_tengah.json"
   },
   "Cabai Rawit / Sulawesi Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 3.63,
-=======
     "rows": 999,
     "mape": 5.1,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_sulawesi_selatan.json"
   },
   "Cabai Rawit / Sulawesi Tenggara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 6.68,
-=======
     "rows": 999,
     "mape": 4.98,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_sulawesi_tenggara.json"
   },
   "Cabai Rawit / Gorontalo": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 8.6,
-=======
     "rows": 999,
     "mape": 6.14,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_gorontalo.json"
   },
   "Cabai Rawit / Sulawesi Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 7.59,
-=======
     "rows": 999,
     "mape": 5.31,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_sulawesi_barat.json"
   },
   "Cabai Rawit / Maluku": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 7.12,
-=======
     "rows": 999,
     "mape": 5.84,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_maluku.json"
   },
   "Cabai Rawit / Maluku Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 6.22,
-=======
     "rows": 999,
     "mape": 6.61,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_maluku_utara.json"
   },
   "Cabai Rawit / Papua Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 5.17,
-=======
     "rows": 999,
     "mape": 4.88,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_papua_barat.json"
   },
   "Cabai Rawit / Papua Barat Daya": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 8.47,
-=======
     "rows": 999,
     "mape": 8.35,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_papua_barat_daya.json"
   },
   "Cabai Rawit / Papua": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 6.6,
-=======
     "rows": 999,
     "mape": 4.62,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_papua.json"
   },
   "Cabai Rawit / Papua Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 6.35,
-=======
     "rows": 999,
     "mape": 3.2,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_papua_tengah.json"
   },
   "Cabai Rawit / Papua Pegunungan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 4.47,
-=======
     "rows": 999,
     "mape": 6.65,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_papua_pegunungan.json"
   },
   "Cabai Rawit / Papua Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 4.96,
-=======
     "rows": 999,
     "mape": 4.19,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_cabai_rawit_papua_selatan.json"
   },
   "Bawang Merah / Aceh": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.79,
-=======
     "rows": 999,
     "mape": 2.56,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_aceh.json"
   },
   "Bawang Merah / Sumatera Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.97,
-=======
     "rows": 999,
     "mape": 3.09,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_sumatera_utara.json"
   },
   "Bawang Merah / Sumatera Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 3.31,
-=======
     "rows": 999,
     "mape": 3.07,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_sumatera_barat.json"
   },
   "Bawang Merah / Riau": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.78,
-=======
     "rows": 999,
     "mape": 3.6,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_riau.json"
   },
   "Bawang Merah / Jambi": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 6.77,
-=======
     "rows": 999,
     "mape": 2.48,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_jambi.json"
   },
   "Bawang Merah / Sumatera Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 4.25,
-=======
     "rows": 999,
     "mape": 5.15,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_sumatera_selatan.json"
   },
   "Bawang Merah / Bengkulu": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 4.33,
-=======
     "rows": 999,
     "mape": 2.31,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_bengkulu.json"
   },
   "Bawang Merah / Lampung": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.4,
-=======
     "rows": 999,
     "mape": 3.78,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_lampung.json"
   },
   "Bawang Merah / Kepulauan Bangka Belitung": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.42,
-=======
     "rows": 999,
     "mape": 4.94,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_kepulauan_bangka_belitung.json"
   },
   "Bawang Merah / Kepulauan Riau": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 3.62,
-=======
     "rows": 999,
     "mape": 2.95,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_kepulauan_riau.json"
   },
   "Bawang Merah / DKI Jakarta": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.89,
-=======
     "rows": 999,
     "mape": 3.7,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_dki_jakarta.json"
   },
   "Bawang Merah / Jawa Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.3,
-=======
     "rows": 999,
     "mape": 3.0,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_jawa_barat.json"
   },
   "Bawang Merah / Jawa Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.61,
-=======
     "rows": 999,
     "mape": 4.18,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_jawa_tengah.json"
   },
   "Bawang Merah / DI Yogyakarta": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 3.36,
-=======
     "rows": 999,
     "mape": 3.03,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_di_yogyakarta.json"
   },
   "Bawang Merah / Jawa Timur": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 3.52,
-=======
     "rows": 999,
     "mape": 4.3,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_jawa_timur.json"
   },
   "Bawang Merah / Banten": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.94,
-=======
     "rows": 999,
     "mape": 2.38,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_banten.json"
   },
   "Bawang Merah / Bali": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.17,
-=======
     "rows": 999,
     "mape": 4.02,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_bali.json"
   },
   "Bawang Merah / Nusa Tenggara Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.19,
-=======
     "rows": 999,
     "mape": 2.8,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_nusa_tenggara_barat.json"
   },
   "Bawang Merah / Nusa Tenggara Timur": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 3.02,
-=======
     "rows": 999,
     "mape": 2.94,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_nusa_tenggara_timur.json"
   },
   "Bawang Merah / Kalimantan Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.28,
-=======
     "rows": 999,
     "mape": 2.99,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_kalimantan_barat.json"
   },
   "Bawang Merah / Kalimantan Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 3.22,
-=======
     "rows": 999,
     "mape": 5.64,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_kalimantan_tengah.json"
   },
   "Bawang Merah / Kalimantan Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.91,
-=======
     "rows": 999,
     "mape": 2.99,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_kalimantan_selatan.json"
   },
   "Bawang Merah / Kalimantan Timur": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.34,
-=======
     "rows": 999,
     "mape": 5.88,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_kalimantan_timur.json"
   },
   "Bawang Merah / Kalimantan Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 3.85,
-=======
     "rows": 999,
     "mape": 2.4,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_kalimantan_utara.json"
   },
   "Bawang Merah / Sulawesi Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 3.54,
-=======
     "rows": 999,
     "mape": 2.32,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_sulawesi_utara.json"
   },
   "Bawang Merah / Sulawesi Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.48,
-=======
     "rows": 999,
     "mape": 3.63,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_sulawesi_tengah.json"
   },
   "Bawang Merah / Sulawesi Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 3.22,
-=======
     "rows": 999,
     "mape": 5.73,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_sulawesi_selatan.json"
   },
   "Bawang Merah / Sulawesi Tenggara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.34,
-=======
     "rows": 999,
     "mape": 2.93,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_sulawesi_tenggara.json"
   },
   "Bawang Merah / Gorontalo": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.82,
-=======
     "rows": 999,
     "mape": 2.36,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_gorontalo.json"
   },
   "Bawang Merah / Sulawesi Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 3.82,
-=======
     "rows": 999,
     "mape": 2.67,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_sulawesi_barat.json"
   },
   "Bawang Merah / Maluku": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 4.14,
-=======
     "rows": 999,
     "mape": 2.79,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_maluku.json"
   },
   "Bawang Merah / Maluku Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.64,
-=======
     "rows": 999,
     "mape": 2.78,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_maluku_utara.json"
   },
   "Bawang Merah / Papua Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.66,
-=======
     "rows": 999,
     "mape": 3.12,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_papua_barat.json"
   },
   "Bawang Merah / Papua Barat Daya": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 3.24,
-=======
     "rows": 999,
     "mape": 6.16,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_papua_barat_daya.json"
   },
   "Bawang Merah / Papua": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.83,
-=======
     "rows": 999,
     "mape": 3.5,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_papua.json"
   },
   "Bawang Merah / Papua Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.68,
-=======
     "rows": 999,
     "mape": 3.38,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_papua_tengah.json"
   },
   "Bawang Merah / Papua Pegunungan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.63,
-=======
     "rows": 999,
     "mape": 2.03,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_papua_pegunungan.json"
   },
   "Bawang Merah / Papua Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.45,
-=======
     "rows": 999,
     "mape": 2.84,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_bawang_merah_papua_selatan.json"
   },
   "Beras / Aceh": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.06,
-=======
     "rows": 999,
     "mape": 1.17,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_aceh.json"
   },
   "Beras / Sumatera Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.3,
-=======
     "rows": 999,
     "mape": 0.68,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_sumatera_utara.json"
   },
   "Beras / Sumatera Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.75,
-=======
     "rows": 999,
     "mape": 0.7,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_sumatera_barat.json"
   },
   "Beras / Riau": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.65,
-=======
     "rows": 999,
     "mape": 0.87,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_riau.json"
   },
   "Beras / Jambi": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.96,
-=======
     "rows": 999,
     "mape": 2.22,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_jambi.json"
   },
   "Beras / Sumatera Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.33,
-=======
     "rows": 999,
     "mape": 1.02,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_sumatera_selatan.json"
   },
   "Beras / Bengkulu": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.62,
-=======
     "rows": 999,
     "mape": 0.64,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_bengkulu.json"
   },
   "Beras / Lampung": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.52,
-=======
     "rows": 999,
     "mape": 1.41,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_lampung.json"
   },
   "Beras / Kepulauan Bangka Belitung": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.33,
-=======
     "rows": 999,
     "mape": 1.32,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_kepulauan_bangka_belitung.json"
   },
   "Beras / Kepulauan Riau": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.52,
-=======
     "rows": 999,
     "mape": 0.68,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_kepulauan_riau.json"
   },
   "Beras / DKI Jakarta": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.56,
-=======
     "rows": 999,
     "mape": 0.7,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_dki_jakarta.json"
   },
   "Beras / Jawa Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.67,
-=======
     "rows": 999,
     "mape": 0.72,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_jawa_barat.json"
   },
   "Beras / Jawa Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.69,
-=======
     "rows": 999,
     "mape": 0.58,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_jawa_tengah.json"
   },
   "Beras / DI Yogyakarta": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.0,
-=======
     "rows": 999,
     "mape": 1.56,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_di_yogyakarta.json"
   },
   "Beras / Jawa Timur": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.76,
-=======
     "rows": 999,
     "mape": 0.84,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_jawa_timur.json"
   },
   "Beras / Banten": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.78,
-=======
     "rows": 999,
     "mape": 1.01,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_banten.json"
   },
   "Beras / Bali": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.61,
-=======
     "rows": 999,
     "mape": 0.6,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_bali.json"
   },
   "Beras / Nusa Tenggara Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.79,
-=======
     "rows": 999,
     "mape": 1.14,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_nusa_tenggara_barat.json"
   },
   "Beras / Nusa Tenggara Timur": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.54,
-=======
     "rows": 999,
     "mape": 0.72,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_nusa_tenggara_timur.json"
   },
   "Beras / Kalimantan Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.55,
-=======
     "rows": 999,
     "mape": 0.59,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_kalimantan_barat.json"
   },
   "Beras / Kalimantan Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.63,
-=======
     "rows": 999,
     "mape": 0.59,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_kalimantan_tengah.json"
   },
   "Beras / Kalimantan Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.08,
-=======
     "rows": 999,
     "mape": 0.97,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_kalimantan_selatan.json"
   },
   "Beras / Kalimantan Timur": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.97,
-=======
     "rows": 999,
     "mape": 1.18,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_kalimantan_timur.json"
   },
   "Beras / Kalimantan Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.09,
-=======
     "rows": 999,
     "mape": 0.92,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_kalimantan_utara.json"
   },
   "Beras / Sulawesi Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.11,
-=======
     "rows": 999,
     "mape": 0.79,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_sulawesi_utara.json"
   },
   "Beras / Sulawesi Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.39,
-=======
     "rows": 999,
     "mape": 1.06,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_sulawesi_tengah.json"
   },
   "Beras / Sulawesi Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.78,
-=======
     "rows": 999,
     "mape": 0.97,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_sulawesi_selatan.json"
   },
   "Beras / Sulawesi Tenggara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.23,
-=======
     "rows": 999,
     "mape": 0.61,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_sulawesi_tenggara.json"
   },
   "Beras / Gorontalo": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.8,
-=======
     "rows": 999,
     "mape": 0.57,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_gorontalo.json"
   },
   "Beras / Sulawesi Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.26,
-=======
     "rows": 999,
     "mape": 0.66,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_sulawesi_barat.json"
   },
   "Beras / Maluku": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.87,
-=======
     "rows": 999,
     "mape": 0.74,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_maluku.json"
   },
   "Beras / Maluku Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.52,
-=======
     "rows": 999,
     "mape": 0.72,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_maluku_utara.json"
   },
   "Beras / Papua Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.85,
-=======
     "rows": 999,
     "mape": 0.65,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_papua_barat.json"
   },
   "Beras / Papua Barat Daya": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.52,
-=======
     "rows": 999,
     "mape": 0.9,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_papua_barat_daya.json"
   },
   "Beras / Papua": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.79,
-=======
     "rows": 999,
     "mape": 1.03,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_papua.json"
   },
   "Beras / Papua Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.7,
-=======
     "rows": 999,
     "mape": 0.81,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_papua_tengah.json"
   },
   "Beras / Papua Pegunungan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.67,
-=======
     "rows": 999,
     "mape": 0.92,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_papua_pegunungan.json"
   },
   "Beras / Papua Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.45,
-=======
     "rows": 999,
     "mape": 0.6,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_beras_papua_selatan.json"
   },
   "Minyak Goreng / Aceh": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.08,
-=======
     "rows": 999,
     "mape": 1.06,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_aceh.json"
   },
   "Minyak Goreng / Sumatera Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.69,
-=======
     "rows": 999,
     "mape": 0.71,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_sumatera_utara.json"
   },
   "Minyak Goreng / Sumatera Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.6,
-=======
     "rows": 999,
     "mape": 0.78,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_sumatera_barat.json"
   },
   "Minyak Goreng / Riau": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-=======
     "rows": 999,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "mape": 2.1,
     "artifact": "prophet_minyak_goreng_riau.json"
   },
   "Minyak Goreng / Jambi": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.79,
-=======
     "rows": 999,
     "mape": 0.86,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_jambi.json"
   },
   "Minyak Goreng / Sumatera Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.54,
-=======
     "rows": 999,
     "mape": 0.75,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_sumatera_selatan.json"
   },
   "Minyak Goreng / Bengkulu": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.83,
-=======
     "rows": 999,
     "mape": 1.32,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_bengkulu.json"
   },
   "Minyak Goreng / Lampung": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.97,
-=======
     "rows": 999,
     "mape": 0.67,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_lampung.json"
   },
   "Minyak Goreng / Kepulauan Bangka Belitung": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.07,
-=======
     "rows": 999,
     "mape": 1.53,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_kepulauan_bangka_belitung.json"
   },
   "Minyak Goreng / Kepulauan Riau": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.94,
-=======
     "rows": 999,
     "mape": 0.82,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_kepulauan_riau.json"
   },
   "Minyak Goreng / DKI Jakarta": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.18,
-=======
     "rows": 999,
     "mape": 0.86,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_dki_jakarta.json"
   },
   "Minyak Goreng / Jawa Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.04,
-=======
     "rows": 999,
     "mape": 0.68,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_jawa_barat.json"
   },
   "Minyak Goreng / Jawa Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.42,
-=======
     "rows": 999,
     "mape": 1.46,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_jawa_tengah.json"
   },
   "Minyak Goreng / DI Yogyakarta": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.98,
-=======
     "rows": 999,
     "mape": 1.41,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_di_yogyakarta.json"
   },
   "Minyak Goreng / Jawa Timur": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.57,
-=======
     "rows": 999,
     "mape": 0.65,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_jawa_timur.json"
   },
   "Minyak Goreng / Banten": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.12,
-=======
     "rows": 999,
     "mape": 1.06,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_banten.json"
   },
   "Minyak Goreng / Bali": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.06,
-=======
     "rows": 999,
     "mape": 1.55,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_bali.json"
   },
   "Minyak Goreng / Nusa Tenggara Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.86,
-=======
     "rows": 999,
     "mape": 0.91,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_nusa_tenggara_barat.json"
   },
   "Minyak Goreng / Nusa Tenggara Timur": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.61,
-=======
     "rows": 999,
     "mape": 1.16,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_nusa_tenggara_timur.json"
   },
   "Minyak Goreng / Kalimantan Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.83,
-=======
     "rows": 999,
     "mape": 0.94,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_kalimantan_barat.json"
   },
   "Minyak Goreng / Kalimantan Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.73,
-=======
     "rows": 999,
     "mape": 0.87,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_kalimantan_tengah.json"
   },
   "Minyak Goreng / Kalimantan Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.07,
-=======
     "rows": 999,
     "mape": 0.75,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_kalimantan_selatan.json"
   },
   "Minyak Goreng / Kalimantan Timur": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.11,
-=======
     "rows": 999,
     "mape": 0.73,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_kalimantan_timur.json"
   },
   "Minyak Goreng / Kalimantan Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.96,
-=======
     "rows": 999,
     "mape": 1.49,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_kalimantan_utara.json"
   },
   "Minyak Goreng / Sulawesi Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.41,
-=======
     "rows": 999,
     "mape": 0.82,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_sulawesi_utara.json"
   },
   "Minyak Goreng / Sulawesi Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.99,
-=======
     "rows": 999,
     "mape": 0.97,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_sulawesi_tengah.json"
   },
   "Minyak Goreng / Sulawesi Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.14,
-=======
     "rows": 999,
     "mape": 0.68,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_sulawesi_selatan.json"
   },
   "Minyak Goreng / Sulawesi Tenggara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.73,
-=======
     "rows": 999,
     "mape": 0.79,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_sulawesi_tenggara.json"
   },
   "Minyak Goreng / Gorontalo": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.04,
-=======
     "rows": 999,
     "mape": 1.73,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_gorontalo.json"
   },
   "Minyak Goreng / Sulawesi Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.83,
-=======
     "rows": 999,
     "mape": 1.25,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_sulawesi_barat.json"
   },
   "Minyak Goreng / Maluku": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.93,
-=======
     "rows": 999,
     "mape": 0.91,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_maluku.json"
   },
   "Minyak Goreng / Maluku Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.16,
-=======
     "rows": 999,
     "mape": 0.94,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_maluku_utara.json"
   },
   "Minyak Goreng / Papua Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.13,
-=======
     "rows": 999,
     "mape": 1.1,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_papua_barat.json"
   },
   "Minyak Goreng / Papua Barat Daya": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.48,
-=======
     "rows": 999,
     "mape": 0.91,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_papua_barat_daya.json"
   },
   "Minyak Goreng / Papua": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.09,
-=======
     "rows": 999,
     "mape": 1.49,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_papua.json"
   },
   "Minyak Goreng / Papua Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.13,
-=======
     "rows": 999,
     "mape": 1.9,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_papua_tengah.json"
   },
   "Minyak Goreng / Papua Pegunungan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.79,
-=======
     "rows": 999,
     "mape": 0.75,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_papua_pegunungan.json"
   },
   "Minyak Goreng / Papua Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.11,
-=======
     "rows": 999,
     "mape": 0.95,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_minyak_goreng_papua_selatan.json"
   },
   "Telur Ayam / Aceh": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 3.13,
-=======
     "rows": 999,
     "mape": 1.19,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_aceh.json"
   },
   "Telur Ayam / Sumatera Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.68,
-=======
     "rows": 999,
     "mape": 2.02,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_sumatera_utara.json"
   },
   "Telur Ayam / Sumatera Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.48,
-=======
     "rows": 999,
     "mape": 2.08,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_sumatera_barat.json"
   },
   "Telur Ayam / Riau": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.28,
-=======
     "rows": 999,
     "mape": 1.15,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_riau.json"
   },
   "Telur Ayam / Jambi": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-=======
     "rows": 999,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "mape": 1.3,
     "artifact": "prophet_telur_ayam_jambi.json"
   },
   "Telur Ayam / Sumatera Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.79,
-=======
     "rows": 999,
     "mape": 2.36,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_sumatera_selatan.json"
   },
   "Telur Ayam / Bengkulu": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.29,
-=======
     "rows": 999,
     "mape": 1.5,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_bengkulu.json"
   },
   "Telur Ayam / Lampung": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.53,
-=======
     "rows": 999,
     "mape": 1.23,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_lampung.json"
   },
   "Telur Ayam / Kepulauan Bangka Belitung": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.81,
-=======
     "rows": 999,
     "mape": 1.32,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_kepulauan_bangka_belitung.json"
   },
   "Telur Ayam / Kepulauan Riau": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.03,
-=======
     "rows": 999,
     "mape": 1.28,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_kepulauan_riau.json"
   },
   "Telur Ayam / DKI Jakarta": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.18,
-=======
     "rows": 999,
     "mape": 2.35,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_dki_jakarta.json"
   },
   "Telur Ayam / Jawa Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 2.14,
-=======
     "rows": 999,
     "mape": 1.53,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_jawa_barat.json"
   },
   "Telur Ayam / Jawa Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.07,
-=======
     "rows": 999,
     "mape": 1.58,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_jawa_tengah.json"
   },
   "Telur Ayam / DI Yogyakarta": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.1,
-=======
     "rows": 999,
     "mape": 1.43,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_di_yogyakarta.json"
   },
   "Telur Ayam / Jawa Timur": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.31,
-=======
     "rows": 999,
     "mape": 1.8,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_jawa_timur.json"
   },
   "Telur Ayam / Banten": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.39,
-=======
     "rows": 999,
     "mape": 1.31,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_banten.json"
   },
   "Telur Ayam / Bali": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-=======
     "rows": 999,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "mape": 1.43,
     "artifact": "prophet_telur_ayam_bali.json"
   },
   "Telur Ayam / Nusa Tenggara Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.9,
-=======
     "rows": 999,
     "mape": 1.21,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_nusa_tenggara_barat.json"
   },
   "Telur Ayam / Nusa Tenggara Timur": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.79,
-=======
     "rows": 999,
     "mape": 1.09,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_nusa_tenggara_timur.json"
   },
   "Telur Ayam / Kalimantan Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.49,
-=======
     "rows": 999,
     "mape": 1.46,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_kalimantan_barat.json"
   },
   "Telur Ayam / Kalimantan Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.45,
-=======
     "rows": 999,
     "mape": 1.19,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_kalimantan_tengah.json"
   },
   "Telur Ayam / Kalimantan Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.74,
-=======
     "rows": 999,
     "mape": 1.28,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_kalimantan_selatan.json"
   },
   "Telur Ayam / Kalimantan Timur": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.31,
-=======
     "rows": 999,
     "mape": 1.12,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_kalimantan_timur.json"
   },
   "Telur Ayam / Kalimantan Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.22,
-=======
     "rows": 999,
     "mape": 0.92,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_kalimantan_utara.json"
   },
   "Telur Ayam / Sulawesi Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.52,
-=======
     "rows": 999,
     "mape": 1.7,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_sulawesi_utara.json"
   },
   "Telur Ayam / Sulawesi Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.66,
-=======
     "rows": 999,
     "mape": 2.12,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_sulawesi_tengah.json"
   },
   "Telur Ayam / Sulawesi Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.47,
-=======
     "rows": 999,
     "mape": 1.32,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_sulawesi_selatan.json"
   },
   "Telur Ayam / Sulawesi Tenggara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 0.87,
-=======
     "rows": 999,
     "mape": 1.34,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_sulawesi_tenggara.json"
   },
   "Telur Ayam / Gorontalo": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.55,
-=======
     "rows": 999,
     "mape": 2.12,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_gorontalo.json"
   },
   "Telur Ayam / Sulawesi Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.62,
-=======
     "rows": 999,
     "mape": 1.34,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_sulawesi_barat.json"
   },
   "Telur Ayam / Maluku": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.45,
-=======
     "rows": 999,
     "mape": 1.36,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_maluku.json"
   },
   "Telur Ayam / Maluku Utara": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.25,
-=======
     "rows": 999,
     "mape": 1.38,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_maluku_utara.json"
   },
   "Telur Ayam / Papua Barat": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.46,
-=======
     "rows": 999,
     "mape": 1.74,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_papua_barat.json"
   },
   "Telur Ayam / Papua Barat Daya": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.15,
-=======
     "rows": 999,
     "mape": 1.39,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_papua_barat_daya.json"
   },
   "Telur Ayam / Papua": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.41,
-=======
     "rows": 999,
     "mape": 1.87,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_papua.json"
   },
   "Telur Ayam / Papua Tengah": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.51,
-=======
     "rows": 999,
     "mape": 1.28,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_papua_tengah.json"
   },
   "Telur Ayam / Papua Pegunungan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.25,
-=======
     "rows": 999,
     "mape": 1.55,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_papua_pegunungan.json"
   },
   "Telur Ayam / Papua Selatan": {
     "status": "trained",
-<<<<<<< HEAD
-    "rows": 990,
-    "mape": 1.27,
-=======
     "rows": 999,
     "mape": 1.5,
->>>>>>> 38bfb1d (Update sample data and retrain AI model for September 2026)
     "artifact": "prophet_telur_ayam_papua_selatan.json"
   }
 }
