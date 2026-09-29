@@ -23,7 +23,7 @@ class DataProvider:
 
     def load(self) -> None:
         """Muat CSV ke memori. Dipanggil sekali saat startup service."""
-        df = pd.read_csv(self.csv_path)
+        df = pd.read_csv(self.csv_path, parse_dates=["date"])
         required_cols = {"date", "commodity", "province", "price"}
         missing = required_cols - set(df.columns)
         if missing:
@@ -31,7 +31,6 @@ class DataProvider:
                 f"Kolom wajib hilang di {self.csv_path}: {missing}. "
                 f"Format yang diharapkan: date, commodity, province, price"
             )
-        df["date"] = pd.to_datetime(df["date"], errors="raise")
         df = df.sort_values("date").reset_index(drop=True)
         self._df = df
         logger.info(

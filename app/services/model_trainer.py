@@ -89,7 +89,6 @@ def evaluate(model: Prophet, series: pd.DataFrame, test_days: int = 30) -> dict:
         yearly_seasonality=True,
         daily_seasonality=False,
         changepoint_prior_scale=0.1,
-        uncertainty_samples=0,
     )
     eval_model.fit(train_part)
 

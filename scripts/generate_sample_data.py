@@ -1,3 +1,17 @@
+"""Generate SAMPLE (bukan data asli) harga historis harian.
+
+PENTING: Data yang dihasilkan skrip ini adalah data sintetis untuk keperluan
+pengembangan & pengujian pipeline saja. SEBELUM dipakai untuk demo final,
+GANTI file `data/harga_historis.csv` dengan data asli hasil unduhan dari:
+  - Panel Harga Pangan Bapanas: https://panelharga.badanpangan.go.id
+  - PIHPS Nasional: https://www.bi.go.id/hargapangan
+
+Format CSV yang harus dihasilkan/disediakan (kolom wajib):
+    date, commodity, province, price
+
+Jalankan:
+    python scripts/generate_sample_data.py
+"""
 
 import os
 import sys
@@ -10,7 +24,7 @@ from app.config import COMMODITIES, PROVINCES, RAW_DATA_PATH  # noqa: E402
 np.random.seed(42)
 
 START_DATE = "2024-01-01"
-END_DATE = "2026-09-25"  # "hari ini" sesuai skenario proyek
+END_DATE = "2026-09-30"  # "hari ini" sesuai skenario proyek
 
 # Harga dasar (baseline) per komoditas dalam Rupiah/kg, dan volatilitas relatif
 # (dipakai supaya cabai/bawang lebih bergejolak daripada beras/minyak, sesuai
@@ -31,43 +45,9 @@ VOLATILITY = {
 }
 # Faktor penyesuaian ringan antar provinsi (distribusi/ongkos logistik).
 PROVINCE_FACTOR = {
-    "Aceh": 1.03,
     "DKI Jakarta": 1.00,
     "Jawa Barat": 0.97,
-    "Jawa Tengah": 0.94,
-    "DI Yogyakarta": 0.95,
     "Jawa Timur": 0.95,
-    "Banten": 1.01,
-    "Bali": 1.02,
-    "Nusa Tenggara Barat": 1.00,
-    "Nusa Tenggara Timur": 1.08,
-    "Kalimantan Barat": 1.07,
-    "Kalimantan Tengah": 1.08,
-    "Kalimantan Selatan": 1.06,
-    "Kalimantan Timur": 1.10,
-    "Kalimantan Utara": 1.12,
-    "Sulawesi Utara": 1.06,
-    "Sulawesi Tengah": 1.05,
-    "Sulawesi Selatan": 1.03,
-    "Sulawesi Tenggara": 1.08,
-    "Gorontalo": 1.05,
-    "Sulawesi Barat": 1.06,
-    "Maluku": 1.15,
-    "Maluku Utara": 1.14,
-    "Papua Barat": 1.20,
-    "Papua Barat Daya": 1.20,
-    "Papua": 1.22,
-    "Papua Tengah": 1.23,
-    "Papua Pegunungan": 1.25,
-    "Papua Selatan": 1.20,
-    "Sumatera Barat": 1.02,
-    "Riau": 1.05,
-    "Jambi": 1.01,
-    "Sumatera Selatan": 1.00,
-    "Bengkulu": 1.01,
-    "Lampung": 0.98,
-    "Kepulauan Bangka Belitung": 1.10,
-    "Kepulauan Riau": 1.12,
     "Sumatera Utara": 1.05,
 }
 
@@ -132,7 +112,7 @@ def main():
     os.makedirs(os.path.dirname(RAW_DATA_PATH), exist_ok=True)
     df.to_csv(RAW_DATA_PATH, index=False)
     print(f"[SAMPLE DATA] {len(df)} baris ditulis ke {RAW_DATA_PATH}")
-    print("HANYA DATA DUMMY UNTUK PROSES DEMO.")
+    print("INGAT: ganti dengan data asli PIHPS/Bapanas sebelum demo final.")
 
 
 if __name__ == "__main__":

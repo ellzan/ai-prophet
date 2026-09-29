@@ -26,12 +26,13 @@ app = FastAPI(
     version="0.1.0",
 )
 
+# Ganti allow_origins dengan domain frontend production sebelum deploy final.
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
         "http://localhost:5173",
         "http://127.0.0.1:5173",
-    
+        # TODO: tambahkan domain Vercel production di sini
     ],
     allow_methods=["GET", "POST", "OPTIONS"],
     allow_headers=["*"],
