@@ -1,11 +1,3 @@
-"""Latih model Prophet untuk semua kombinasi komoditas x provinsi.
-
-Jalankan setiap kali ada data historis baru:
-    python scripts/train.py
-
-Hasil model tersimpan di artifacts/, dan ringkasan akurasi (MAPE per
-pasangan) tersimpan di artifacts/training_report.json.
-"""
 
 import logging
 import os

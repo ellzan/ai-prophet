@@ -17,8 +17,6 @@ RUN python -c "import cmdstanpy; cmdstanpy.install_cmdstan()"
 COPY . .
 
 # Latih model saat build image, supaya artifacts/ selalu ikut ter-deploy.
-# Kalau data historis (data/harga_historis.csv) sudah diganti data asli,
-# cukup build ulang image ini untuk melatih ulang modelnya.
 RUN python scripts/train.py
 
 EXPOSE 8000
